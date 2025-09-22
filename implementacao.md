@@ -7,6 +7,6 @@
 
 <div align="center">
 
-[Retroceder](projeto.md) | [Início](testes.md)
+[Retroceder](projeto.md) | [Avançar](testes.md)
 
 </div>
