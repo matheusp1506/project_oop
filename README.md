@@ -8,7 +8,7 @@
 
 > Repositório destinado para o desenvolvimento do projeto final da discipliana PRG22107 - Programação orienta a objeto. 
 > 
-> Aluno: Nome do aluno  
+> Aluno: Matheus Pereira
 > Professor: Hugo Marcondes
 
 <p align=center><strong>SUMÁRIO</strong></p>
