@@ -9,7 +9,7 @@
 
 O projeto é um jogo com 'câmera' isométrica, onde o jogador move seu personagem por salas investigando items e coletando chaves para abrir outras salas.
 
-Para a estruturação dos passos futuros, foi decidido as [especificações](especificacoes.md) iniciais dos conteúdos do jogo.
+Para a estruturação dos passos futuros, foram decididas as [especificações](especificacoes.md) iniciais dos conteúdos do jogo.
 
 > [!NOTE]
 >Possíveis requisitos funcionais e não-funcionais podem ser elencados aqui.

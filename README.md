@@ -4,9 +4,9 @@
 
 # << Título do projeto >>
 
-## << Descrição breve do domínio do problema >>
+## Jogo isométrico com exploração de ambientes
 
-> Repositório destinado para o desenvolvimento do projeto final da discipliana PRG22107 - Programação orienta a objeto. 
+> Repositório destinado para o desenvolvimento do projeto final da disciplina PRG22107 - Programação orienta a objeto. 
 > 
 > Aluno: Matheus Pereira
 > Professor: Hugo Marcondes
