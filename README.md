@@ -2,7 +2,7 @@
      width="30%"
      style="padding: 10px">
 
-# << Título do projeto >>
+# Projeto: Investigação Isométrica
 
 ## Jogo isométrico com exploração de ambientes
 
