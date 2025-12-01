@@ -1,4 +1,3 @@
 # Instruções para compilação e execução do sistema
 
->[!NOTE]
-> Incluir todas as informações necessárias para compilar e executar o programa com sucesso.
+Com esta pasta, abrindo o projeto por meio do CMakeLists.txt, pode-se fazer a build para testar o projeto. Uma versão já preparada pode também ser encontrada em Releases.
