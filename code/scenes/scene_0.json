@@ -1,0 +1,72 @@
+{
+	"background": ":/assets/backgrounds/debugLvl.png",
+	"backgroundX": 137,
+	"backgroundY": 213,
+	"height": 19,
+	"width": 32,
+	"player": {
+		"sprite": ":/assets/characters/Small-8-Direction-Characters_by_AxulArt.png",
+		"x": 1,
+		"y": 1,
+		"anchor": {
+			"x": 8,
+			"y": 24
+		},
+		"collision": {
+			"x": 0.5,
+			"y": 0.5
+		}
+	},
+	"objects": [
+		{
+			"x": -0.7,
+			"y": 4.5,
+			"sizeX": 1,
+			"sizeY": 9
+		},
+		{
+			"x": 3.25,
+			"y": -0.7,
+			"sizeX": 6.5,
+			"sizeY": 1
+		},
+		{
+			"x": 7,
+			"y": 4.5,
+			"sizeX": 1,
+			"sizeY": 9
+		},
+		{
+			"x": 3.25,
+			"y": 9.7,
+			"sizeX": 6.5,
+			"sizeY": 1
+		},
+		{
+			"sprite": "://assets/objects/isoChest.png",
+			"x": 6,
+			"y": 8.5,
+			"anchor": {
+				"x": 16,
+				"y": 24
+			},
+			"interaction": {
+				"sizeX": 1.5,
+				"sizeY": 1.5,
+				"condition" : false,
+				"dialog": [
+					{
+						"text": "It's a chest.",
+						"speaker": "Protagonist"
+					},
+					{
+						"text": "Oh, I wouldn't have noticed if you hadn't pointed out.",
+						"speaker": "Outsider"
+					}
+				]
+			},
+			"sizeX": 1,
+			"sizeY": 1
+		}
+	]
+}
