@@ -11,8 +11,8 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 find_package(QT NAMES Qt6 Qt5 REQUIRED COMPONENTS Widgets LinguistTools)
 
-set(TS_FILES translations/TapeKill_en_US.ts
-    translations/TapeKill_pt_BR.ts)
+set(TS_FILES translations/Projeto_en_US.ts
+    translations/Projeto_pt_BR.ts)
 
 set(PROJECT_SOURCES
         main.cpp
