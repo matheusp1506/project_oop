@@ -1,7 +1,7 @@
 <RCC>
     <qresource prefix="/">
-        <file>translations/TapeKill_en_US.qm</file>
-        <file>translations/TapeKill_pt_BR.qm</file>
+        <file>translations/Projeto_en_US.qm</file>
+        <file>translations/Projeto_pt_BR.qm</file>
         <file>assets/backgrounds/debugLvl.png</file>
         <file>scenes/scene_0.json</file>
         <file>assets/characters/Small-8-Direction-Characters_by_AxulArt.png</file>
@@ -11,3 +11,4 @@
         <file>assets/fonts/Pixel Digivolve.otf</file>
     </qresource>
 </RCC>
+
